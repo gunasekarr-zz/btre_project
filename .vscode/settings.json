@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\grajendran\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "python.pythonPath": "C:\\Users\\grajendran\\envs\\Python\\Scripts\\python.exe",
     "terminal.integrated.cursorStyle": "underline",
     "terminal.integrated.shell.windows": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\powershell.exe",
     "python.terminal.executeInFileDir": true,
