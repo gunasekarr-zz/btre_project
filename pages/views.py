@@ -33,3 +33,14 @@ def about(request):
     }
 
     return render(request, 'pages/about.html', context)
+
+
+def search(request):
+
+    context = {
+        'price_choices': price_choices,
+        'bedroom_choices': bedroom_choices,
+        'state_choices': state_choices
+    }
+
+    return render(request, 'listings/search.html', context)
